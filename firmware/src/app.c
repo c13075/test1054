@@ -138,6 +138,7 @@ void APP_Tasks ( void )
         /* Application's initial state. */
         case APP_STATE_INIT:
         {
+            // code will go here
             break;
         }
 
