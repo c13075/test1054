@@ -139,6 +139,7 @@ void APP_Tasks ( void )
         case APP_STATE_INIT:
         {
             // code will go here
+            // new comment
             break;
         }
 
